@@ -1,5 +1,5 @@
 # NGS
-Some usefule Resources are list down based on their usage.
+Some usefule Resources are listed below based on their usage.
 
 ## Micro-Rna Analysis
 1. http://bcb.io/2016/03/24/mirqc/
